@@ -7,7 +7,10 @@ let xbot = "-X-:bot Whatsapp helper"
  
 
 
-const { groupdb,smd, getBuffer, tlang, prefix } = require('../lib')
+const { smd, getBuffer, tlang, prefix } = require('../lib')
+const {
+  groupdb,
+  userdb} = require("../lib/schemes");
 const Config = require('../config')
 const eco = require('discord-mongoose-economy')
 let ty = false ; 
