@@ -1,6 +1,4 @@
 const {
-  groupdb,
-  userdb,
   bot_,
   smd,
   jsonformat,
@@ -16,6 +14,9 @@ const {
   getBuffer,
   prefix
 } = require("../lib");
+const {
+  groupdb,
+  userdb} = require("../lib/schemes");
 const axios = require("axios");
 const suhail_md = require("../lib/plugins");
 smd({
