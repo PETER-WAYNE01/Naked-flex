@@ -10,6 +10,9 @@ const {
 	prefix,
 	bot_
 	} = require('../lib')
+const {
+  groupdb,
+  userdb} = require("../lib/schemes");
 const Levels = require("discord-xp");
 try{ if(isMongodb)(Levels.setURL(mongodb)) }catch{}
 //============================================================================
