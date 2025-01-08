@@ -6,20 +6,20 @@ global.audio = "www.youtube.com";
 global.video = "www.youtube.com";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "davidpromise2003@gmail.com";
+global.email = "petersuccessful73@gmail.com";
 global.location = "Lagos, Nigeria";
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/Mek-d1/X-bot";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G";
+global.github = process.env.GITHUB || "https://gitHub.com/PETER-WAYNE01/Naked-flex";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vb2TSDd47XeCsqaFak1o";
+global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vb2TSDd47XeCsqaFak1o";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://files.catbox.moe/mx0z4n.jpg";
-global.devs = "2349133354644";
+global.devs = "2348126699854";
 global.sudo = process.env.SUDO || "12567980814";
-global.owner = process.env.OWNER_NUMBER || "2349133354644";
+global.owner = process.env.OWNER_NUMBER || "2348126699854";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "true";
 global.wlcm = process.env.WELCOME || "true";
@@ -35,7 +35,7 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
 global.read_status = process.env.AUTO_READ_STATUS || "true";
 global.save_status = process.env.AUTO_SAVE_STATUS || "false";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "";
-global.read_status_from = process.env.READ_STATUS_FROM || "2347013349642,234xxxxx";
+global.read_status_from = process.env.READ_STATUS_FROM || "2348126699854,234xxxxx";
 
 global.api_smd = "https://api-smd-1.vercel.app";
 global.scan = "https://x-bot-session-generator.onrender.com";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "©X-:bot",
-  author: process.env.PACK_AUTHER || "X-bot",
+  caption: process.env.CAPTION || "©Naked-flex:bot",
+  author: process.env.PACK_AUTHER || "Naked-flex bot",
   packname: process.env.PACK_NAME || "",
-  botname: process.env.BOT_NAME || "X-bot",
-  ownername: process.env.OWNER_NAME || "-X-",
+  botname: process.env.BOT_NAME || "Naked-flex bot",
+  ownername: process.env.OWNER_NAME || "-PETER-",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
