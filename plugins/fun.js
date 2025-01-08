@@ -335,14 +335,19 @@ smd(
       }
 
       const data = await response.json();
-      const {arabic1, english, ayahNo, surahNo, surahNameArabic, surahName} = data;
+      const {arabic1, revelationPlace, english, ayahNo, surahNo, surahNameArabic, surahName} = data;
        // This will be used as the subtitle (chapter/verse)
       
       // Structuring the message with reduced space
       const message = `╔════════════════◇\n` +
                       `║ *SURAH-NAME:* ${data.surahName}\n` +  // trim() removes any unnecessary whitespace
                       `║ *✨SURAH-N-ARAB:* ${data.surahNameArabic}\n` +
-                      `║ *✨Author:* > Made By -X-:bot\n` +
+                     `║ *REVELATIO-PLACE:* ${data.revelationPlace}\n` +
+                      `║ *✨SURAH-NUM:* ${data.surahNo}\n` +
+                      `║ *AYAH-NUM:* ${data.ayahNo}\n` +
+                  `║ *READING-ENG:* ${data.english}\n` +
+                     `║ *READING-ARAB:* ${data.arabic1}\n` +
+                      `║ *✨Author:*  Made By -X-:bot\n` +
                       `╚════════════════◇`;
 
       await m.send(message);
