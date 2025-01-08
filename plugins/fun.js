@@ -296,18 +296,18 @@ smd({
   smd({      
     pattern: 'vcc',
    fromMe: false,
-   desc: 'Get a random question',
+   desc: 'Get a random card details',
    type: 'fun'
 }, async (message, match) => {
    try {
        const response = await fetch('https://itzpire.com/random/vcc?cardType=MasterCard');
        const data = await response.json();
-       const vcc = data.data.data;
+       const vcc = data.data;
        
        await message.send(`*Random vcc:* ${vcc}`, { quoted: message.data });
    } catch (error) {
        console.error('Error fetching random question:', error);
-       await message.send('_Failed to fetch a random bcc._', { quoted: message.data });
+       await message.send('_Failed to fetch a random Vcc._', { quoted: message.data });
    }
 });
 smd(
@@ -325,7 +325,7 @@ smd(
         return await m.send("Please provide a Quran verse reference, e.g., `.quran 3/2`.");
       }
 
-      const apiUrl = `https://quranapi.pages.dev/api/${encodeURIComponent(query)}.json`;
+      const apiUrl = `https://quranapi.pages.dev/api/${query}.json`;
       const response = await fetch(apiUrl);
 
       if (!response.ok) {
@@ -335,7 +335,7 @@ smd(
       }
 
       const data = await response.json();
-      const {arabic1, english, ayahNo, surahNo, surahNameArabic, surahName} = data.data;
+      const {arabic1, english, ayahNo, surahNo, surahNameArabic, surahName} = data;
        // This will be used as the subtitle (chapter/verse)
       
       // Structuring the message with reduced space
