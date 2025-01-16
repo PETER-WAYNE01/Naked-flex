@@ -1,23 +1,23 @@
-# 🌟 X-bot 🌟
+# 🌟 Naked-flex bot🌟
 
 <p align="center">
-  <img src="https://files.catbox.moe/ldv7px.jpg" alt="X-bot Banner" width="450" style="border-radius: 15px;"/>
+  <img src="https://files.catbox.moe/ldv7px.jpg" alt="Naked-flex bot Banner" width="450" style="border-radius: 15px;"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial%20Black&weight=700&size=16&duration=3500&pause=1000&color=FF5733&vCenter=true&width=400&lines=🚀+Mek+d1+WhatsApp+Bot;💬+Multi-Device+Support;🛠️+Developed+By+Mek+d1" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Arial%20Black&weight=700&size=16&duration=3500&pause=1000&color=FF5733&vCenter=true&width=400&lines=🚀+Naked-flex+d1+WhatsApp+Bot;💬+Multi-Device+Support;🛠️+Developed+By+Naked-flex+d1" alt="Typing SVG Animation" />
   </a>
 </p>
 
 ---
 
 ## 🚀 Ｄｅｐｌｏｙｍｅｎｔ Ｏｐｔｉｏｎｓ
-Get started with X-bot quickly! Choose your preferred deployment method:
+Get started with Naked-flex-bot quickly! Choose your preferred deployment method:
 
 ### ⭐ １．ＦＯＲＫ ＴＨＩＳ ＲＥＰＯＳＩＴＯＲＹ
 <p align="center">
-  <a href="https://github.com/Mek-d1/X-bot/fork" target="_blank">
+  <a href="https://GitHub.com/PETER-WAYNE01/naked-flex/fork" target="_blank">
     <img alt="Fork repo" src="https://img.shields.io/badge/✨ Fork This Repo-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
 </p>
@@ -33,7 +33,7 @@ Get started with X-bot quickly! Choose your preferred deployment method:
   </a>
 
 ### 🌈 ３．ＤＥＰＬＯＹ ＴＯ ＰＬＡＴＦＯＲＭＳ
-Pick your favorite platform to deploy X-bot:
+Pick your favorite platform to deploy Naked-flex-bot:
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
@@ -60,7 +60,7 @@ Pick your favorite platform to deploy X-bot:
 
   <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
     <h3 style="font-family: 'Arial Black', sans-serif; font-size: 20px;">Heroku</h3>
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/Mek-d1/X-bot">
+    <a href="https://dashboard.heroku.com/new?template=https://GitHub.com/PETER-WAYNE01/naked-flex">
       <img src="https://img.shields.io/badge/-🚀_Deploy_on_Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/>
     </a>
     <br>
@@ -85,7 +85,7 @@ Pick your favorite platform to deploy X-bot:
 ---
 
 ## ⚠️ ＮＯＴＥ
-The script for X-bot is not openly allowed to be used in any of your projects; be warned!
+The script for Naked-flex bot is not openly allowed to be used in any of your projects; be warned!
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
 <br>
@@ -96,8 +96,8 @@ The script for X-bot is not openly allowed to be used in any of your projects; b
 <img alt="Development" width="250" src="https://f.uguu.se/KzWJaMCY.jpg" /> </p>
 
 ## Support
-SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL:https://whatsapp.com/channel/0029Vb2TSDd47XeCsqaFak1o <a href="https://"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-### Please Give One Star ✨ & [follow me to get notified of my updates 💗](https://github.com/Mek-d1/X-bot)
+### Please Give One Star ✨ & [follow me to get notified of my updates 💗](https://GitHub.com/PETER-WAYNE01/naked-flex)
 
 <b>Version -> 1.0.0</b>
