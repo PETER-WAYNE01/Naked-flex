@@ -77,7 +77,7 @@ Pick your favorite platform to deploy Naked-flex-bot:
     <br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Replit_logo.png" width="50" />
     <br>
-    <a href="https://replit.com/github/Mek-d1/X-bot" style="font-size: 14px;">Create Account</a>
+    <a href="https://replit.com/GitHub.com/PETER-WAYNE01/naked-flex" style="font-size: 14px;">Create Account</a>
   </div>
 
 </div>
@@ -90,13 +90,14 @@ The script for Naked-flex bot is not openly allowed to be used in any of your pr
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
 <br>
 <p align="center">
-<a href="https://wa.me/2347013349642"><img src="https://img.shields.io/badge/Contact 𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗫-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/2348126699854"><img src="https://img.shields.io/badge/Contact 𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗫-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029Vb2TSDd47XeCsqaFak1o"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <p align="center">
 <img alt="Development" width="250" src="https://f.uguu.se/KzWJaMCY.jpg" /> </p>
 
 ## Support
-SUPPORT CHANNEL:https://whatsapp.com/channel/0029Vb2TSDd47XeCsqaFak1o <a href="https://"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL:
+<a href="https://whatsapp.com/channel/0029Vb2TSDd47XeCsqaFak1o"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ### Please Give One Star ✨ & [follow me to get notified of my updates 💗](https://GitHub.com/PETER-WAYNE01/naked-flex)
 
