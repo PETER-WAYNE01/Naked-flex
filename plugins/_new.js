@@ -36,7 +36,7 @@ smd(
     desc: "To check ping",
     react: "🗨️",
     category: "user",
-    filename: __filename,
+    filename: <a href="https://ibb.co/YddrKdt"><img src="https://i.ibb.co/YddrKdt/6cad0e9e16f2b1c2c00c70467dbfe9b0.webp" alt="6cad0e9e16f2b1c2c00c70467dbfe9b0" border="0"></a__filename,
   },
   async (message) => {
     const SupportMsg = `ERRORS WITH REPO COMMAND THIS IS NEW REPO \n\n *REPO:*https://GitHub.com/PETER-WAYNE01/naked-flex\n\n ${Config.botname} *WORKS*`;
